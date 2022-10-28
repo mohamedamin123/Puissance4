@@ -1,0 +1,17 @@
+app\model\files\FilePartie.class
+app\model\Coup.class
+app\control\Control.class
+app\model\dao\DAOJoueur.class
+app\model\dao\DAOpartie.class
+app\model\dao\DAOcoup.class
+app\model\Partie.class
+app\vue\InterfaceListJoueur.class
+app\vue\InterfaceCoup.class
+app\model\Puissance.class
+app\model\dao\DAO.class
+app\model\Joueur.class
+app\vue\InterfaceParti.class
+app\model\Position.class
+app\AppPuissance.class
+app\vue\InterfaceJeuPuissance.class
+app\model\ListeJoueur.class
